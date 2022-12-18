@@ -11,5 +11,5 @@
            remote="Myremote"
           sync-j="4" />   -->
 
-  <project path="android/amrutha-code" name="amruthaar93/amrutha" remote="myremote" revision="main" />
+  <project path="android/amrutha-code" name="amruthaar93/amrutha" remote="Myremote" revision="main" />
   </manifest>
